@@ -1,0 +1,4 @@
+interface:
+  display_name: "CST Generator"
+  short_description: "Generate CST geometry, ports, materials, and solver scripts"
+
